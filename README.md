@@ -1,7 +1,7 @@
 # GUVI Project
 
 Modules: 
-Login.html, Content.html, First.java, Second.java
+index.html, First.java, Second.java, Admin.jsp, Staff.jsp, Red.jsp
 
 Languages Used:
-HTML, Java, SQL
+HTML, CSS, Java, JSP, SQL
